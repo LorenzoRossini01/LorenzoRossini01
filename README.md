@@ -47,8 +47,8 @@
 
 <h3 align="center">Currently learning:</h3>
 <p align="center"> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw39M5gyLTQneiIGPJcS47he&ust=1726651800090000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDbjqvVyYgDFQAAAAAdAAAAABAE" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FFile%3AAngular_full_color_logo.svg&psig=AOvVaw0Vna24bHXUX-yX0LOl8FiD&ust=1726651878514000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDDvtDVyYgDFQAAAAAdAAAAABAE" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> 
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> 
 </p>
 
 
