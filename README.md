@@ -6,6 +6,8 @@
 <p align="center">I am excited to apply my skills in a professional context, contributing to innovative and stimulating projects while continuing to learn new technologies. I have a great thirst for knowledge and am always looking for new insights to enhance my abilities.</p>
 
 ## Main Projects
+<p align="center"> <a href="https://github.com/LorenzoRossini01/sito-associazione-diabetici-peschiera.git"><strong>sito associazione diabetici peschiera</strong></a> :Vue.js project that allows admin user to manage association's events.</p>
+<p align="center"> <a href="https://github.com/LorenzoRossini01/21-react-routing-deep-dive.git"><strong>21-react-routing-deep-dive</strong></a> : React demo app made to exercise with react routing.</p>
 <p align="center"> <a href="https://github.com/LorenzoRossini01/vite-boolflix"><strong>vite-boolflix</strong></a> : A Vue.js-based project to create a movie streaming app.</p>
 <p align="center"> <a href="https://github.com/LorenzoRossini01/vue-boolzapp"><strong>vue-boolzapp</strong></a> : A messaging application inspired by WhatsApp, built with Vue.js.</p>
 <p align="center"> <a href="https://github.com/LorenzoRossini01/proj-html-vuejs"><strong>proj-html-vuejs</strong></a> : An HTML and Vue.js project to create a dynamic landing page.</p>
